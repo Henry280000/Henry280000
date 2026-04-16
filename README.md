@@ -39,33 +39,37 @@
 
 ### <font color="#7dcfff">// root@system / main_processes / output.log</font>
 
-<table border="0" cellpadding="0" cellspacing="0" align="center" width="100%">
-  <tr>
-    <td align="center" style="background-color: #1a1b26; border-radius: 10px; padding: 20px; margin-bottom: 10px;">
-      <div align="left" style="max-width: 600px;">
-        
+<div align="center" style="background-color: #1a1b26; border-radius: 10px; padding: 20px;">
+
 #### <font color="#7aa2f7">📂 TEQLY_INVENTORY</font>
+
 ```
-[████████████████████] 100% | STATUS: RUNNING ✓
+████████████████████ 100% | STATUS: RUNNING ✓
 ```
-<font color="#a9b1d6" size="2">Inventory management system with real-time updates and analytics dashboard</font>
+
+<font color="#a9b1d6">Inventory management system with real-time updates and analytics dashboard</font>
+
+---
 
 #### <font color="#7aa2f7">📂 POKEDEX_UI</font>
+
 ```
-[████████████████████] 100% | STATUS: RUNNING ✓
+████████████████████ 100% | STATUS: RUNNING ✓
 ```
-<font color="#a9b1d6" size="2">Interactive Pokédex built with React and modern UI components</font>
+
+<font color="#a9b1d6">Interactive Pokédex built with React and modern UI components</font>
+
+---
 
 #### <font color="#7aa2f7">📂 DATABASE_ORD</font>
-```
-[████████████████████] 100% | STATUS: COMPLETED ✓
-```
-<font color="#a9b1d6" size="2">Advanced database design for academic assessment</font>
 
-      </div>
-    </td>
-  </tr>
-</table>
+```
+████████████████████ 100% | STATUS: COMPLETED ✓
+```
+
+<font color="#a9b1d6">Advanced database design for academic assessment</font>
+
+</div>
 
 <br>
 
@@ -74,18 +78,8 @@
 ### <font color="#7dcfff">// root@system / analytics / activity.sh</font>
 
 <div align="center">
-  
-<table border="0" cellpadding="0" cellspacing="0" align="center">
-  <tr>
-    <td>
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=Henry280000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6&icon_color=7dcfff"/>
-    </td>
-    <td>
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry280000&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6"/>
-    </td>
-  </tr>
-</table>
-
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Henry280000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6&icon_color=7dcfff"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry280000&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6"/>
 </div>
 
 <br>
